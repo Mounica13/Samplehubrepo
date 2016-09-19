@@ -1,0 +1,6 @@
+C:\Users\mud\Source\Repos\Repository1\Tripattern\Tripattern\bin\Debug\Tripattern.exe.config
+C:\Users\mud\Source\Repos\Repository1\Tripattern\Tripattern\bin\Debug\Tripattern.exe
+C:\Users\mud\Source\Repos\Repository1\Tripattern\Tripattern\bin\Debug\Tripattern.pdb
+C:\Users\mud\Source\Repos\Repository1\Tripattern\Tripattern\obj\Debug\Tripattern.csprojResolveAssemblyReference.cache
+C:\Users\mud\Source\Repos\Repository1\Tripattern\Tripattern\obj\Debug\Tripattern.exe
+C:\Users\mud\Source\Repos\Repository1\Tripattern\Tripattern\obj\Debug\Tripattern.pdb
