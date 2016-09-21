@@ -13,9 +13,9 @@ namespace Tripattern
 
             int val = 5;
             int i, j, k;
-            for (i = 1; i <=val; i++)
+            for (i = 1; i <val; i++)
             {
-                for (j = 1; j <= val ; j++)
+                for (j = 1; j < val ; j++)
                 {
                     // Console.Write("");
                 }
